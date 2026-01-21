@@ -1,0 +1,11 @@
+{
+  "config": {
+    "model": "RandomForestRegressor",
+    "n_estimators": 400
+  },
+  "metrics": {
+    "MAE": 44.47011235955056,
+    "RMSE": 54.815794469428305,
+    "R2": 0.4328642390894343
+  }
+}

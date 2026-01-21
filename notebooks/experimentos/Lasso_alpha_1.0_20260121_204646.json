@@ -1,0 +1,10 @@
+{
+  "config": {
+    "model": "Lasso",
+    "alpha": 1.0
+  },
+  "metrics": {
+    "RMSE_mean": 54.711314474482904,
+    "RMSE_std": 1.031944846487363
+  }
+}
