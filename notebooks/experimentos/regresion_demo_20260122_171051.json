@@ -1,0 +1,22 @@
+{
+  "name": "regresion_demo",
+  "timestamp": "2026-01-22T17:10:51",
+  "seed": 42,
+  "config": {
+    "model": "LinearRegression",
+    "test_size": 0.2
+  },
+  "metrics": {
+    "MAE": 1234.5,
+    "RMSE": 1500.2,
+    "R2": 0.82
+  },
+  "dataset": {
+    "n_rows": 4,
+    "n_columns": 2,
+    "columns": [
+      "edad",
+      "ingresos"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "config": {
+    "model": "Ridge",
+    "alpha": 10.0
+  },
+  "metrics": {
+    "RMSE_mean": 54.761536446353546,
+    "RMSE_std": 1.0946339015931734
+  }
+}
